@@ -15,7 +15,7 @@
 
 ### 🚨Copy and run the below commands in Cloud Shell:
 ```
-curl -LO raw.githubusercontent.com/developersayandutta/Arcade/refs/heads/main/GSP924/run.sh
+curl -LO https://raw.githubusercontent.com/developersayandutta/Arcade/refs/heads/main/GSP924/run.sh
 ```
 
 ```
